@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="test suite">
-    <test name="Kac numarali test">
+    <test name="Which test number">
           <classes>
               <class name="TestNG">
                   <methods>
